@@ -1,6 +1,6 @@
 # CreditRisk
 
-This respository contains all the stages in a basic data science life cycle. We break it down into 3 stages: Data cleaning, Feature preparation and the machine learning algorithm. We will be working with data from Lending Club, an online marketplace that matches lenders with borrowers. A borrower species a certain amount, which along with a number of other factors, contributes to an interest rate that Lending Club assigns to them. Lenders must then decide if this interest rate justifies the investment. Obviously, lenders will seek a larger interest rate to offset a loan to a borrower who seems less likely to pay back on time. 
+This respository contains three of the main stages in a basic data science life cycle: Data cleaning, Feature preparation and the machine learning algorithm prediction. We will be working with data from Lending Club, an online marketplace that matches lenders with borrowers. A borrower species a certain amount, which along with a number of other factors, contributes to an interest rate that Lending Club assigns to them. Lenders must then decide if this interest rate justifies the investment. Obviously, lenders will seek a larger interest rate to offset a loan to a borrower who seems less likely to pay back on time. 
 
 We imagine ourselves as a conservative investor, who wants to use a machine learning algorithm to classify borrowers that will pay back the loan or not. For this purpose, we will use a logistic regression algorithm. 
 
