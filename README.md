@@ -8,3 +8,7 @@ This scenario lends itself well to machine learning.
 
 i) We have lots of data that contains information that is pertinent to the reliability of a borrower. 
 ii) There are no mathematical equations that can answer this problem. 
+
+We include two different algorithms. The first represents a naive data scientist who applies vanilla logistic regression to the data. We find that the unbalanced data set results in a model that predicts that nearly all borrowers will pay back the loan on time. 
+
+The seocnd algorithm applies different penalities to false positives and false negatives, resulting ia a model that predicts nearly all borrowers who will fail to pay back the loan on time. 
